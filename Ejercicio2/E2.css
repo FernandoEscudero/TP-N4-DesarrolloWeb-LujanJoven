@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+.c1,
+.c3 {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    border-radius: 15px;
+    border: 2px dashed black;
+    text-align: center;
+}
+
+.c1 {
+    background-color: blue;
+}
+
+.c3 {
+    background-color: greenyellow;
+}
+
+#c2 {
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: palevioletred;
+    width: 540px;
+    height: 150px;
+    margin: 20px;
+    border-radius: 15px;
+    border: 2px dashed black;
+    text-align: center;
+}
