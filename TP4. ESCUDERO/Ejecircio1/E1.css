@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+div {
+    position: absolute;
+
+}
+
+h1 {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 0px 15px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 10px 0px;
+}
+
+#c1 {
+    background-color: #4499EE;
+}
+
+#c2 {
+    background-color: #EE4499;
+}
+
+#c3 {
+    background-color: #99EE44;
+}
+
+#c4 {
+    background-color: #EE9944;
+}
